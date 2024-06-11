@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactStore/static/css/main.cc66fca6.css",
+    "main.js": "/reactStore/static/js/main.614f8f06.js",
+    "static/js/453.074f229b.chunk.js": "/reactStore/static/js/453.074f229b.chunk.js",
+    "static/media/Rating.svg": "/reactStore/static/media/Rating.21f11776c291719163fadfe2b2ed6552.svg",
+    "static/media/instagram 1.svg": "/reactStore/static/media/instagram 1.5b29a6b8d4df9b50c74c3160607c7548.svg",
+    "static/media/logo-small.svg": "/reactStore/static/media/logo-small.ee6d1f846e58e3bdedaf482237db7e43.svg",
+    "static/media/twitter 1.svg": "/reactStore/static/media/twitter 1.25d27194eba22a73155581f3a16b729e.svg",
+    "static/media/pinterest 1.svg": "/reactStore/static/media/pinterest 1.7b21e0eea8eea56ec483897e9a1bb558.svg",
+    "index.html": "/reactStore/index.html",
+    "static/media/Eye 1.svg": "/reactStore/static/media/Eye 1.0fe5d14d7891df040da46eb9e7ee62f9.svg",
+    "static/media/Close.svg": "/reactStore/static/media/Close.1039383edb6fb5c568db11b4f356c066.svg",
+    "static/media/facebook.svg": "/reactStore/static/media/facebook.5e8f984904440a4a9af92d0fb8c457a5.svg",
+    "static/media/Bag.svg": "/reactStore/static/media/Bag.f136d51a04f923fcb16d8aea1bcc044d.svg",
+    "static/media/Heart.svg": "/reactStore/static/media/Heart.d16ca5e9acd86f937ba6b0a2b62e7bb8.svg",
+    "main.cc66fca6.css.map": "/reactStore/static/css/main.cc66fca6.css.map",
+    "main.614f8f06.js.map": "/reactStore/static/js/main.614f8f06.js.map",
+    "453.074f229b.chunk.js.map": "/reactStore/static/js/453.074f229b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc66fca6.css",
+    "static/js/main.614f8f06.js"
+  ]
+}
