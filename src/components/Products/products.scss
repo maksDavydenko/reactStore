@@ -1,0 +1,12 @@
+.products-content {
+  padding: 100px 0 180px;
+
+  h2 {
+    padding-bottom: 40px;
+  }
+}
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(265px, 1fr));
+}
